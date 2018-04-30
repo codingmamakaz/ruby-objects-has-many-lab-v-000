@@ -8,7 +8,7 @@ class Song
 
   def artist_name
     self.artist.name
-    nil if self.name = nil
+    nil if self.artist = nil
   end
 
 end
